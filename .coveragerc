@@ -1,0 +1,8 @@
+[run]
+branch = True
+source =
+    src/
+omit =
+    src//makina/tests/**/*.py
+    src//makina/tests/*.py
+    src//makina/testing.py
